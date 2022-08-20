@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294865958353",
+    "project_id": "lens-application-fe9a7",
+    "storage_bucket": "lens-application-fe9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294865958353:android:36423ff2970e6690e21cf0",
+        "android_client_info": {
+          "package_name": "com.example.googlelensapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294865958353-ohqj9anmqksrumvsa7v6plmbu0qdd1la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAejNNBQD8_NnxVhvCOq0KlGA7WkxEwr0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294865958353-ohqj9anmqksrumvsa7v6plmbu0qdd1la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
